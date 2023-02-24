@@ -1,0 +1,5 @@
+D:\Dev Projects\C_Sharp_Projects\CalculadoraFinancieraCSharp\CalculadoraFinancieraCSharp\obj\Debug\net7.0\CalculadoraFinancieraCSharp.csproj.AssemblyReference.cache
+D:\Dev Projects\C_Sharp_Projects\CalculadoraFinancieraCSharp\CalculadoraFinancieraCSharp\obj\Debug\net7.0\CalculadoraFinancieraCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev Projects\C_Sharp_Projects\CalculadoraFinancieraCSharp\CalculadoraFinancieraCSharp\obj\Debug\net7.0\CalculadoraFinancieraCSharp.AssemblyInfoInputs.cache
+D:\Dev Projects\C_Sharp_Projects\CalculadoraFinancieraCSharp\CalculadoraFinancieraCSharp\obj\Debug\net7.0\CalculadoraFinancieraCSharp.AssemblyInfo.cs
+D:\Dev Projects\C_Sharp_Projects\CalculadoraFinancieraCSharp\CalculadoraFinancieraCSharp\obj\Debug\net7.0\CalculadoraFinancieraCSharp.csproj.CoreCompileInputs.cache
