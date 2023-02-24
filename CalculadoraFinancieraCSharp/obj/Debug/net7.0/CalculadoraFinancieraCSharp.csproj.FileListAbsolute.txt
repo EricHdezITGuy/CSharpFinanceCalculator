@@ -3,3 +3,13 @@ D:\Dev Projects\C_Sharp_Projects\CalculadoraFinancieraCSharp\CalculadoraFinancie
 D:\Dev Projects\C_Sharp_Projects\CalculadoraFinancieraCSharp\CalculadoraFinancieraCSharp\obj\Debug\net7.0\CalculadoraFinancieraCSharp.AssemblyInfoInputs.cache
 D:\Dev Projects\C_Sharp_Projects\CalculadoraFinancieraCSharp\CalculadoraFinancieraCSharp\obj\Debug\net7.0\CalculadoraFinancieraCSharp.AssemblyInfo.cs
 D:\Dev Projects\C_Sharp_Projects\CalculadoraFinancieraCSharp\CalculadoraFinancieraCSharp\obj\Debug\net7.0\CalculadoraFinancieraCSharp.csproj.CoreCompileInputs.cache
+D:\Dev Projects\C_Sharp_Projects\CalculadoraFinancieraCSharp\CalculadoraFinancieraCSharp\bin\Debug\net7.0\CalculadoraFinancieraCSharp.exe
+D:\Dev Projects\C_Sharp_Projects\CalculadoraFinancieraCSharp\CalculadoraFinancieraCSharp\bin\Debug\net7.0\CalculadoraFinancieraCSharp.deps.json
+D:\Dev Projects\C_Sharp_Projects\CalculadoraFinancieraCSharp\CalculadoraFinancieraCSharp\bin\Debug\net7.0\CalculadoraFinancieraCSharp.runtimeconfig.json
+D:\Dev Projects\C_Sharp_Projects\CalculadoraFinancieraCSharp\CalculadoraFinancieraCSharp\bin\Debug\net7.0\CalculadoraFinancieraCSharp.dll
+D:\Dev Projects\C_Sharp_Projects\CalculadoraFinancieraCSharp\CalculadoraFinancieraCSharp\bin\Debug\net7.0\CalculadoraFinancieraCSharp.pdb
+D:\Dev Projects\C_Sharp_Projects\CalculadoraFinancieraCSharp\CalculadoraFinancieraCSharp\obj\Debug\net7.0\CalculadoraFinancieraCSharp.dll
+D:\Dev Projects\C_Sharp_Projects\CalculadoraFinancieraCSharp\CalculadoraFinancieraCSharp\obj\Debug\net7.0\refint\CalculadoraFinancieraCSharp.dll
+D:\Dev Projects\C_Sharp_Projects\CalculadoraFinancieraCSharp\CalculadoraFinancieraCSharp\obj\Debug\net7.0\CalculadoraFinancieraCSharp.pdb
+D:\Dev Projects\C_Sharp_Projects\CalculadoraFinancieraCSharp\CalculadoraFinancieraCSharp\obj\Debug\net7.0\CalculadoraFinancieraCSharp.genruntimeconfig.cache
+D:\Dev Projects\C_Sharp_Projects\CalculadoraFinancieraCSharp\CalculadoraFinancieraCSharp\obj\Debug\net7.0\ref\CalculadoraFinancieraCSharp.dll
