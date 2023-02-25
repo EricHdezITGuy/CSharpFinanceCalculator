@@ -26,7 +26,39 @@ namespace CalculadoraFinancieraCSharp
                 case "C":
                     Console.WriteLine("Crédito denegado.");
                     return;
-            }
+            } 
+            // Menu de opciones de préstamo
+            Console.WriteLine("Seleccione una opción de préstamo:\n");
+            Console.WriteLine("1. Personal Regular - Tasa de interés: 15%");
+            Console.WriteLine("2. Personal Rápido - Tasa de interés: 18%");
+            Console.WriteLine("3. Reparación y ampliación de vivienda - Tasa de interés: 12%");
+            Console.WriteLine("4. Compra de Lote - Tasa de interés: 12%");
+            Console.WriteLine("5. Compra de Vehículo Nuevo - Tasa de interés: 18%");
+            Console.Write("Ingrese el número de opción: ");
+            var opcionPrestamo = int.Parse(Console.ReadLine());
+
+            float tasaInteres;
+                switch (opcionPrestamo)
+            {
+                case 1:
+                tasaInteres = (float)0.15;
+                break;
+                case 2:
+                tasaInteres = (float)0.18;
+                break;
+                case 3:
+                tasaInteres = (float)0.12;
+                break;
+                case 4:
+                tasaInteres = (float)0.12;
+                break;
+                case 5:
+                tasaInteres = (float)0.18;
+                break;
+                default:
+                Console.WriteLine("Opción de préstamo no válida.");
+                return;
+        }
 
             // Leer el monto del préstamo
             Console.Write("Ingrese el monto del préstamo: ");
@@ -34,7 +66,7 @@ namespace CalculadoraFinancieraCSharp
 
             // Lee la tasa de interés
             Console.Write("Ingrese la tasa de interés: ");
-            var tasaInteres = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            tasaInteres = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             // Leer el número de años
             Console.Write("Introduzca el número de años: ");
