@@ -64,9 +64,9 @@ namespace CalculadoraFinancieraCSharp
             Console.Write("Ingrese el monto del préstamo: ");
             var montoPrestamo = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            // Lee la tasa de interés
-            Console.Write("Ingrese la tasa de interés: ");
-            tasaInteres = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            // Lee la tasa de interés | Esto lo cambiamos para que este quemado en el codigo, segun requerimientos
+            // Console.Write("Ingrese la tasa de interés: ");
+           // tasaInteres = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             // Leer el número de años
             Console.Write("Introduzca el número de años: ");
